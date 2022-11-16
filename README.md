@@ -14,6 +14,7 @@
  ### (1) 첫 화면
  - 마우스 오버 기능
  - 옆으로 스와이프 기능
+ - 화면 하단에 팬카페, SNS 연결 및 상단에 로그인 버튼
  <p align="center">
   <img src="https://user-images.githubusercontent.com/83392219/202186600-15a19359-41d0-4038-9fdf-c36e38204815.jpg" width="40%" height="50%">
   <img src="https://user-images.githubusercontent.com/83392219/202186870-78d38409-b6f3-4a10-9e1e-f41c920a6f5a.jpg" width="40%" height="50%">  
