@@ -29,6 +29,7 @@
 ### (2)
 - 버튼 클릭 시 영화 정보 및 사진 보기 가능
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/83392219/202186870-78d38409-b6f3-4a10-9e1e-f41c920a6f5a.jpg" width="40%" height="50%">  
   <img src="https://user-images.githubusercontent.com/83392219/202187296-3f95a12c-f0f9-4de1-9bf6-6d5d9e859168.jpg" width="50%" height="50%">
 </p>
 
