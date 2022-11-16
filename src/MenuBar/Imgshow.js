@@ -29,19 +29,29 @@ const IntroBlock = style.div`
 
 export default function Imgshow() {
 
-    return(
+    return (
         <div>
             <div className="Titlecut">
                 <Fade bottom>
                     <IntroBlock>
-                        <img className="titleImage2" src="img/2x9hd_3.png"/> 
+                        {/* <img className="titleImage2" src="img/2x9hd_3.png" /> */}
+                        <img
+                            src={`${process.env.PUBLIC_URL}/img/2x9hd_3.png`}
+                            className='titleImage1'
+                            alt='img/2x9hd_2'
+                        />
                     </IntroBlock>
                 </Fade>
             </div>
             <div className="Fadeout">
                 <Fade bottom>
                     <IntroBlock>
-                        <img className="titleImage" src="img/2x9hd_1.jpg"/> 
+                        {/* <img className="titleImage" src="img/2x9hd_1.jpg" /> */}
+                        <img
+                            src={`${process.env.PUBLIC_URL}/img/2x9hd_1.jpg`}
+                            className='titleImage2'
+                            alt='img/2x9hd_1'
+                        />
                     </IntroBlock>
                 </Fade>
                 <div>
@@ -52,17 +62,22 @@ export default function Imgshow() {
                     </Fade>
                     <Fade left>
                         <IntroBlock>
-                            <img className="Underline" src="img/underline.png"/>
+                            {/* <img className="Underline" src="img/underline.png" /> */}
+                            <img
+                                src={`${process.env.PUBLIC_URL}/img/underline.png`}
+                                className='Underline'
+                                alt='img/underline'
+                            />
                         </IntroBlock>
                     </Fade>
                 </div>
             </div>
             <div className="centered">
                 <Fade bottom>
-                    <Horizontal text="Youtube"/> 
+                    <Horizontal text="Youtube" />
                 </Fade>
             </div>
         </div>
-        
+
     );
 }
