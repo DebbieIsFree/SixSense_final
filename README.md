@@ -48,7 +48,7 @@
 
 ### (4) 
 - 동적인 이미지 및 글자 (날아오는 기능)
-- 클릭 시 발로 유튜브 영상으로 이동
+- 클릭 시 바로 유튜브 영상으로 이동
 <p align="center">
   <img src="https://user-images.githubusercontent.com/83392219/202189254-bacd12aa-6a4a-493b-be81-04d0e69c93c0.jpg" width="40%" height="50%">
   <img src="https://user-images.githubusercontent.com/83392219/202189452-32f6777d-e298-4a26-8c7c-8548c73942c0.jpg" width="40%" height="50%">
@@ -58,7 +58,7 @@
 ### (5)
 - 양 옆 스와이프 기능
 - 그림자 효과
-- 카드처럼 스택으로 사진 쌓은 것처럼 보이기
+- 마치 카드처럼, 사진 쌓은 것처럼 보이기
 <p align="center">
   <img src="https://user-images.githubusercontent.com/83392219/202190091-c9e70062-b9d7-4f87-acbc-6259b2c5fe23.jpg" width="40%" height="50%">
   <img src="https://user-images.githubusercontent.com/83392219/202190308-d7bf67a1-6762-4362-a68e-751e80c712ea.jpg" width="40%" height="50%">
